@@ -1,7 +1,7 @@
 # Python Reptile
 
 ## 目前進度
-- Day26 
+- Day27
 
 ## 爬蟲基礎知識
 * DAY1: 資料來源與檔案存取
